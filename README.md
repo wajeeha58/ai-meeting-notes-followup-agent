@@ -90,7 +90,7 @@ Discussion regarding AI automation opportunities and next steps.
 # Action Items
 - Send pricing proposal by Friday
 - Schedule product demo next week
-- 
+
 # Follow-Up Email
 Dear John,
 
